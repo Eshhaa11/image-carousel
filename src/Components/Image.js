@@ -9,5 +9,6 @@ const images = [
     'https://source.unsplash.com/600x300/?bali,beach',
     'https://source.unsplash.com/600x300/?rome,colosseum',
     'https://source.unsplash.com/600x300/?dubai,skyline',
+    'https://source.unsplash.com/600x300/?machu-picchu',
 
     ]
