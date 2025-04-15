@@ -27,6 +27,8 @@ const images = [
 
         return (
             <div className="carousel-cont">
-                
+                    <button className="nav prev" onClick={prevSlide}>‹</button>
+                    <img src={images[current]} alt={`Slide ${current}`} className="slide" />
+
             </div>
         )
