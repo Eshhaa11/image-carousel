@@ -16,3 +16,5 @@ const images = [
 
     function ImageCarousel() {
         const [current, setCurrent] = useState(0);
+
+        const nextSlide = () => {
