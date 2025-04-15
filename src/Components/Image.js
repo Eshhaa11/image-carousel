@@ -19,3 +19,8 @@ const images = [
 
         const nextSlide = () => {
             setCurrent((prev) => (prev + 1) % images.length);
+        };
+
+        const prevSlide = () => {
+            setCurrent((prev) => (prev - 1 + images.length) % images.length);
+          };
