@@ -23,4 +23,10 @@ const images = [
 
         const prevSlide = () => {
             setCurrent((prev) => (prev - 1 + images.length) % images.length);
-          };
+        };
+
+        return (
+            <div className="carousel-cont">
+                
+            </div>
+        )
