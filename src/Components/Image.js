@@ -11,5 +11,6 @@ const images = [
     'https://source.unsplash.com/600x300/?dubai,skyline',
     'https://source.unsplash.com/600x300/?machu-picchu',
     'https://source.unsplash.com/600x300/?maldives',
+    'https://source.unsplash.com/600x300/?iceland,northern-lights',
 
     ]
