@@ -34,3 +34,4 @@ const images = [
         );
     }
 
+    export default Image;
