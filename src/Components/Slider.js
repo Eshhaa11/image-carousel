@@ -27,7 +27,7 @@ const ImageSlider = () => {
     <div className="carousel-cont">
       <h1>DESTINATIONS GALLERY</h1>
       <div className="c-content">
-        <button onClick={handlePrev} className="arrow-button">
+        <button onClick={handlePrev} className="arrow-button prev">
           ←
         </button>
         <div className="img-cont">
@@ -36,7 +36,7 @@ const ImageSlider = () => {
             alt={`Destination ${index + 1}`}
             className="fade-image"
           />
-          <button onClick={handleNext} className="arrow-button">
+          <button onClick={handleNext} className="arrow-button next">
             →
           </button>
         </div>
