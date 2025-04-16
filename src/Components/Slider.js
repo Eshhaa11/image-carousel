@@ -20,7 +20,9 @@ const ImageSlider = () => {
         setIndex((prev) => (prev === 0 ? Images.length - 1 : prev - 1 ));
       };
 
-      
+      const handleNext = () => {
+        setIndex((prev) => (prev === Images.length - 1 ? 0 : prev + 1 ));
+      };
 
 
 }
