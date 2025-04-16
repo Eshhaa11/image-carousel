@@ -8,5 +8,5 @@ import Image4 from "../assets/Maldives.jpg";
 import Image5 from "../assets/Australia.jpg";
 import Image6 from "../assets/Dubai.jpeg";
 import Image7 from "../assets/Mauritius.jpg";
-import Image8 from "../assets/Nyc.jpg";
+import Image8 from "../assets/Canada.jpeg";
 import Image9 from "../assets/Nyc.jpg";
