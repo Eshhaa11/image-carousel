@@ -3,3 +3,4 @@ import './Slider.css';
 
 import Image1 from "../assets/Nyc.jpg";
 import Image2 from "../assets/Bali.jpg";
+import Image3 from "../assets/India.jpg";
