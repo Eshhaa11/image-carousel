@@ -29,6 +29,9 @@ const ImageSlider = () => {
           <h1>DESTINATIONS GALLERY</h1>
           <div className='c-content'>
             <button onClick={handlePrev} className='arrow-button'>←</button>
+            <div className='img-cont'>
+              
+            </div>
           </div>
         </div>
       )
