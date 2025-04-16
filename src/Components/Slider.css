@@ -19,6 +19,7 @@ body{
     display: flex;
     gap: 20px;
     position: relative;
+    padding: 0 20px;
 }
 
 .img-cont {
@@ -27,7 +28,7 @@ body{
     align-items: center;
     width: 600px;
     height: 450px;
-    overflow: hidden;
+    overflow:visible;
   
    
 }
@@ -44,5 +45,6 @@ body{
     font-size: 18px;
     padding: 12px;
     cursor: pointer;
+    margin: 0 10px; 
    
   }
