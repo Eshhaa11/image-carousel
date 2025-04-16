@@ -24,5 +24,11 @@ const ImageSlider = () => {
         setIndex((prev) => (prev === Images.length - 1 ? 0 : prev + 1 ));
       };
 
+      return (
+        <div className='carousel-cont'>
+          
+        </div>
+      )
+
 
 }
