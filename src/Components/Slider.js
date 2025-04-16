@@ -16,5 +16,11 @@ const Images = [Image1, Image2, Image3, Image4, Image5, Image6, Image7, Image8];
 const ImageSlider = () => {
       const [index, setIndex] = useState(0);
 
+      const handlePrev = () => {
+        setIndex((prev) => (prev === 0 ? Images.length - 1 : prev - 1 ));
+      };
+
+      
+
 
 }
