@@ -27,4 +27,5 @@ body{
     width: 400px;
     height: 280px;
     overflow: hidden;
+    border-radius: 12px;
 }
