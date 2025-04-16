@@ -16,4 +16,5 @@ body{
 .c-content {
     align-items: center;
     justify-content: center;
+    display: flex;
 }
