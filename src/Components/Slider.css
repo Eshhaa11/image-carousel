@@ -22,4 +22,5 @@ body{
 
 .img-cont {
     justify-content: center;
+    display: flex;
 }
