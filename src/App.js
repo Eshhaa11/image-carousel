@@ -1,11 +1,11 @@
 import logo from './logo.svg';
 import './App.css';
-import Image from './Components/Image';
+import Slider from './Components/Slider';
 
 function App() {
   return (
     <div>
-      <Image />
+      <Slider />
     </div>
   );
 }
