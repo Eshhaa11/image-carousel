@@ -30,7 +30,10 @@ const ImageSlider = () => {
           <div className='c-content'>
             <button onClick={handlePrev} className='arrow-button'>←</button>
             <div className='img-cont'>
-              
+              <img 
+                 src= {Images[index]}
+
+              />
             </div>
           </div>
         </div>
