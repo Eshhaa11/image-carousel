@@ -26,4 +26,5 @@ body{
     align-items: center;
     width: 400px;
     height: 280px;
+    overflow: hidden;
 }
