@@ -40,6 +40,6 @@ const ImageSlider = () => {
           </div>
         </div>
       )
-
-
 }
+
+export default ImageSlider;
