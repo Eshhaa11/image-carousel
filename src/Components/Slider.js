@@ -26,7 +26,7 @@ const ImageSlider = () => {
 
       return (
         <div className='carousel-cont'>
-          
+          <h1>DESTINATIONS GALLERY</h1>
         </div>
       )
 
