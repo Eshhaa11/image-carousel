@@ -11,6 +11,8 @@ body{
     color: #d1f2eb ;
     font-size: 28px;
     font-weight: bold;
+}
 
-
+.c-content {
+    align-items: center;
 }
