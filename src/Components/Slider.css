@@ -28,4 +28,9 @@ body{
     height: 280px;
     overflow: hidden;
     border-radius: 12px;
+    background-color: #d5dbdb ;
+}
+
+.fade-image {
+
 }
