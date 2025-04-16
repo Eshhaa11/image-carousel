@@ -28,7 +28,7 @@ const ImageSlider = () => {
         <div className='carousel-cont'>
           <h1>DESTINATIONS GALLERY</h1>
           <div className='c-content'>
-            
+            <button onClick={handlePrev} className='arrow-button'>←</button>
           </div>
         </div>
       )
