@@ -28,4 +28,5 @@ body{
     height: 280px;
     overflow: hidden;
     border-radius: 12px;
+    box-shadow:  0 6px 16px rgb(202, 207, 210) ;
 }
