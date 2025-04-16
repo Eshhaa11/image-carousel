@@ -34,8 +34,8 @@ const ImageSlider = () => {
                  src= {Images[index]}
                  alt={`Destination ${index + 1}`}
                  className="fade-image"
-
               />
+                <button onClick={handleNext} className="arrow-button">→</button>
             </div>
           </div>
         </div>
