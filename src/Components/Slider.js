@@ -10,3 +10,5 @@ import Image6 from "../assets/Dubai.jpeg";
 import Image7 from "../assets/Mauritius.jpg";
 import Image8 from "../assets/Canada.jpeg";
 
+
+const Images = [Image1, Image2, Image3, Image4, Image5, Image6, Image7, Image8];
