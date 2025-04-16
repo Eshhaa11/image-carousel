@@ -32,6 +32,8 @@ const ImageSlider = () => {
             <div className='img-cont'>
               <img 
                  src= {Images[index]}
+                 alt={`Destination ${index + 1}`}
+                 className="fade-image"
 
               />
             </div>
