@@ -1,3 +1,5 @@
+![App Screenshot](src/assets/slider.jpg)
+
 # 🖼️ Image Carousel
 
 A smooth and responsive **React** image carousel that lets you slide through a collection of destination images. 
